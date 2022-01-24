@@ -13,77 +13,77 @@ module.exports = {
 		
 		"led.tx":{
 			style:{
-    			top: "25.4%",
-    			left: "78%",
-    			width: "4%",
-    			height: "11%",
+    			top: "22%",
+    			left: "79.95%",
+    			width: "4.1%",
+    			height: "12%",
     			"border-radius": "50%"
 			}
 		},
 		
 		"led.rx":{
 			style:{
-				top: "25.4%",
-    			left: "78%",
-    			width: "4%",
-    			height: "11%",
+				top: "22%",
+    			left: "79.95%",
+    			width: "4.1%",
+    			height: "12%",
 				"border-radius": "50%"
 			}
 		},
 
 		"#Up":{
 			style:{
-				top: "29.3%",
-				left: "10.75%",
-				width: "6.9%",
-				height: "17.8%",
+				top: "26%",
+				left: "8.4%",
+				width: "7.4%",
+				height: "20.8%",
 				"border-radius": "50%",
 			}
 		},
 		
 		"#Left":{
 			style:{
-				top: "44%",
-				left: "5.01%",
-				width: "6.9%",
-				height: "17.8%",
+				top: "43%",
+				left: "2.2%",
+				width: "7.4%",
+				height: "20.8%",
 				"border-radius": "50%"
 			}
 		},
 
 		"#Down":{
 			style:{
-				top: "59%",
-				left: "10.756%",
-				width: "6.9%",
-				height: "17.8%",
+				top: "60%",
+				left: "8.4%",
+				width: "7.4%",
+				height: "20.8%",
 				"border-radius": "50%"
 			}
 		},
 		"#Right":{
 			style:{
-				top: "44%",
-				left: "16.44%",
-				width: "6.9%",
-				height: "17.8%",
+				top: "43%",
+				left: "14.44%",
+				width: "7.4%",
+				height: "20.8%",
 				"border-radius": "50%"
 			}
 		},
 		"#A":{
 			style:{
-				top: "58.6%",
-				left: "83.08%",
-				width: "6.9%",
-				height: "17.8%",
+				top: "60.1%",
+				left: "85.2%",
+				width: "7.4%",
+				height: "20.8%",
 				"border-radius": "50%"
 			}
 		},
 		"#B":{
 			style:{
-				top: "43.9%",
-				left: "88.83%",
-				width: "6.9%",
-				height: "17.8%",
+				top: "43%",
+				left: "91.25%",
+				width: "7.4%",
+				height: "20.8%",
 				"border-radius": "50%"
 			}
 		},
@@ -92,7 +92,8 @@ module.exports = {
 				width: "2.9%",
 				height: "3%",
 				top: "5.5%",
-				left: "28.3%"
+				left: "28.3%",
+				display: "none"
 			}
 		},
 		"#MCM":{
@@ -124,10 +125,10 @@ module.exports = {
 		},
 		"#RESET":{
 			style:{
-				width: "5%",
-				height: "12.7%",
-				top: "17.1%",
-				left: "17.4%",
+				width: "5.2%",
+				height: "14.5%",
+				top: "12%",
+				left: "15.5%",
 				"border-radius": "50%"
 			}
 		}
