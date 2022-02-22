@@ -17,6 +17,8 @@ module.exports = {
     			left: "79.95%",
     			width: "4.1%",
     			height: "12%",
+				"background-color": "#FA0",
+				opacity: 0,
     			"border-radius": "50%"
 			}
 		},
@@ -27,6 +29,8 @@ module.exports = {
     			left: "79.95%",
     			width: "4.1%",
     			height: "12%",
+				"background-color": "#F00",
+				opacity: 0,
 				"border-radius": "50%"
 			}
 		},
